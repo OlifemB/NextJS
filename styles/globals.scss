@@ -1,0 +1,48 @@
+// @import './animate.css';
+// @import './bootstrap.min.css';
+// @import './flaticon.css';
+// @import './jquery.fancybox.css';
+// @import './owl.carousel.css';
+// @import './owl.theme.css';
+// @import './owl.transitions.css';
+// @import './slick-theme.css';
+// @import './slick.css';
+// @import './swiper.min.css';
+// @import './themify-icons.css';
+// @import './style.css';
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+}
+
+.container {
+    max-width: 1110px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
